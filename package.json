@@ -1,0 +1,44 @@
+{
+  "name": "most-repeated-letter",
+  "version": "1.0.0",
+  "description": "Find the first most repeated letter in a string ignoring punctuation and emojis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/firstMostRepeatedLetter.git"
+  },
+  "keywords": [
+    "letter",
+    "letters",
+    "most",
+    "repeated",
+    "string",
+    "strings",
+    "javascript",
+    "js",
+    "punctuation",
+    "emojis",
+    "emoji",
+    "mostrepeated",
+    "alphabet",
+    "alphabets",
+    "word",
+    "words",
+    "mostfrequent",
+    "frequent",
+    "sentence",
+    "character",
+    "characters",
+    "ascii",
+    "alphanumeric"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/firstMostRepeatedLetter/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/firstMostRepeatedLetter#readme"
+}
