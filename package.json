@@ -1,6 +1,6 @@
 {
   "name": "most-repeated-letter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find the first most repeated letter in a string ignoring punctuation and emojis.",
   "main": "index.js",
   "scripts": {
